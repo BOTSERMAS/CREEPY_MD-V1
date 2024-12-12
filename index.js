@@ -1,5 +1,5 @@
-//Created by Danny
-//wa.me/255697608274
+//Created by M-NET
+//wa.me/254726544530
 
 const {
    spawn
